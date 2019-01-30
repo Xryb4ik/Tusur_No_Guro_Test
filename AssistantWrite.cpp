@@ -74,6 +74,6 @@ int main()
 
 	Ann.Set_file();
 
-//	system("pause");
+	system("pause");
 	return 0;
 }
